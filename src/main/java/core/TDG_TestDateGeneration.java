@@ -3,7 +3,7 @@ package core;
 public class TDG_TestDateGeneration {
 
 	int length = 0, result = 0;
-	static int max = 102;
+	static int max = 55;
 	
 	
 	static PrimeNumberChecker p = new PrimeNumberChecker();
